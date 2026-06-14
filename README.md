@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Arpit Sahu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DotNet Technology MVC
-- 💞️ I’m looking to collaborate on ...
-- 📫 arpit_sahu.264 ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hey 👋, I'm Arpit Sahu 👨‍💻</h1>
 
-<!---
-Arpitscode/Arpitscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">🚀 Full Stack Developer | ASP.NET MVC Developer</h3>
+
+<p align="center">
+Building modern web applications and turning ideas into reality.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student (2028)
+- 💻 Passionate about Web Development & Database Management
+- 🌱 Currently learning ASP.NET MVC, ADO.NET & SQL Server
+- 🚀 Working on real-world projects
+- 📫 Reach me: your-email@example.com
+- ⚡ Fun Fact: Coffee + Code = Perfect Day ☕
+
+---
+
+## 🛠️ Tech Stack
+
+HTML5 • CSS3 • Bootstrap • JavaScript • C# • ASP.NET MVC • ADO.NET • SQL Server • Git • GitHub
